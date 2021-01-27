@@ -1,0 +1,16 @@
+body {
+  background-color: magenta;
+  color: yellowgreen;
+  text-align: center;
+}
+
+
+.box1 {
+  text-align: center;
+  position: static;
+  background-color: #74a6ae;
+  margin: 30px;
+  padding: 40px;
+  width: 1270px;
+  height: 160px;
+}
